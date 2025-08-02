@@ -62,12 +62,6 @@ This is when you reach the final position
 # Diagrams
 https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=drivesdk&ouid=109203431461386849036&rtpof=true&sd=true
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -81,11 +75,12 @@ https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=dr
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1bWtJyXtqZVdyDfVCUCOyimb0WuPP9CsM/view?usp=drivesdk
+[Wining](https://drive.google.com/file/d/1bWtJyXtqZVdyDfVCUCOyimb0WuPP9CsM/view?usp=drivesdk)
 
 
 # Additional Demos
-https://drive.google.com/file/d/1eiFHxszsR4ru_QTW25Zyz_u4K3ip5E7M/view?usp=drivesdk
+[Elimination]
+(https://drive.google.com/file/d/1eiFHxszsR4ru_QTW25Zyz_u4K3ip5E7M/view?usp=drivesdk)
 
 ## Team Contributions
 - [Abhinav krishna ks]: [Developer]
