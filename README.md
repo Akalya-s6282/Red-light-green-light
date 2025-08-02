@@ -64,17 +64,7 @@ This is when you reach the final position
 [Workflow](https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=drivesdk&ouid=109203431461386849036&rtpof=true&sd=true)
 
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
 # Video
 [Wining](https://drive.google.com/file/d/1bWtJyXtqZVdyDfVCUCOyimb0WuPP9CsM/view?usp=drivesdk)
 
@@ -84,8 +74,8 @@ This is when you reach the final position
 
 ## Team Contributions
 
--[Akalya S]: [python go dot engine coder]
-- [Abhinav krishna ks]: [Designer]
+Akalya S: python go dot engine coder
+Abhinav krishna ks: Designer
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
