@@ -84,7 +84,7 @@ This is when you reach the final position
 
 ## Team Contributions
 
--[Akalya S]: [python godot engine coder]
+-[Akalya S]: [python go dot engine coder]
 - [Abhinav krishna ks]: [Designer]
 
 ---
