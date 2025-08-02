@@ -48,19 +48,16 @@ uv main.py
 For Software:Go dot engine
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1-_LWZJCercm_KH1anrCzfq-solXpgb89/view?usp=drivesdk
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+https://drive.google.com/file/d/18T7DR15UflxmqRGcBp1vQk1gXsCkJU8R/view?usp=drivesdk
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]
+https://drive.google.com/file/d/1zBBLcjed3JJf2atHv8dl04Rey5ISW1ci/view?usp=drivesdk
 
 # Diagrams
 https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=drivesdk&ouid=109203431461386849036&rtpof=true&sd=true
-
-For Hardware:
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
@@ -88,8 +85,8 @@ https://drive.google.com/file/d/1bWtJyXtqZVdyDfVCUCOyimb0WuPP9CsM/view?usp=drive
 https://drive.google.com/file/d/1eiFHxszsR4ru_QTW25Zyz_u4K3ip5E7M/view?usp=drivesdk
 
 ## Team Contributions
-- [Abhinav krishna ks]: [Specific contributions]
--[Akalya S]: [Specific contributions]
+- [Abhinav krishna ks]: [Developer]
+-[Akalya S]: [Developer]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
