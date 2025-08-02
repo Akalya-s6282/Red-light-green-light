@@ -81,11 +81,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1bWtJyXtqZVdyDfVCUCOyimb0WuPP9CsM/view?usp=drivesdk
+
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1eiFHxszsR4ru_QTW25Zyz_u4K3ip5E7M/view?usp=drivesdk
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
