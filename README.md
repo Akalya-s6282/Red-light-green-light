@@ -60,7 +60,8 @@ This is when you reach the final position
 
 
 # Diagrams
-https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=drivesdk&ouid=109203431461386849036&rtpof=true&sd=true
+
+[Workflow](https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=drivesdk&ouid=109203431461386849036&rtpof=true&sd=true)
 
 
 # Build Photos
@@ -79,12 +80,12 @@ https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=dr
 
 
 # Additional Demos
-[Elimination]
-(https://drive.google.com/file/d/1eiFHxszsR4ru_QTW25Zyz_u4K3ip5E7M/view?usp=drivesdk)
+[Elimination](https://drive.google.com/file/d/1eiFHxszsR4ru_QTW25Zyz_u4K3ip5E7M/view?usp=drivesdk)
 
 ## Team Contributions
-- [Abhinav krishna ks]: [Developer]
--[Akalya S]: [Developer]
+
+-[Akalya S]: [python godot engine coder]
+- [Abhinav krishna ks]: [Designer]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
