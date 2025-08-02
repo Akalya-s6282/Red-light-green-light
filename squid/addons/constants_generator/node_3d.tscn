@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bchk42q87wrqu"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="NavigationAgent3D" type="NavigationAgent3D" parent="."]
+navigation_layers = 255

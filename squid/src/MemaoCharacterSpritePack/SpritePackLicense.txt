@@ -1,0 +1,26 @@
+MEMAO FANTASY CHARACTER SPRITE PACK - LICENSE AGREEMENT
+Copyright © Sleeping Robot Games
+
+By downloading or using the Memao Fantasy Character Sprite Pack (the "Sprite Pack"), you agree to the terms of this License Agreement.
+
+PERMITTED USES:
+- You may use the Sprite Pack and all included assets in personal and commercial game projects.
+- You may edit or modify the sprites to fit your project’s needs.
+- You may include the sprites as part of your game's assets in engines or frameworks.
+- You may publicly share or distribute games or media that include these sprites as part of your project.
+- You may install and use the Sprite Pack on multiple devices for your own use.
+- Credit to "Memao" is appreciated and encouraged.
+
+RESTRICTED USES:
+- You may NOT resell, redistribute, or share the Sprite Pack itself, in part or in whole.
+- You may NOT resell, redistribute, or share the individual sprites, whether edited or unedited, as standalone assets or as part of another asset pack.
+- You may NOT use any part of the Sprite Pack for training generative AI models or in any AI-related services.
+- You may NOT use the Sprite Pack or any included assets in crypto-related, blockchain, or NFT projects.
+
+ADDITIONAL TERMS:
+- This license grants you a non-exclusive, non-transferable right to use the Sprite Pack under the conditions above.
+- All rights not expressly granted herein are reserved by Sleeping Robot Games.
+- This license may be updated over time. The version you download remains valid for your use.
+
+For questions or licensing inquiries, contact:
+support@sleepingrobotgames.com
