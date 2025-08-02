@@ -13,38 +13,39 @@
 - Abhinav: [Aisat]
 
 ### Project Description
-[2-3 lines about what your project does]
+The project is a Red light green light game it shows label red light green light if you tilt you head you can move and if you move during red light you are out. If you reach till end point you win
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Are you bored to play with Hands? Lets give some work to your Neck
+
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+I have integrated Open Cv with this game to detect neck tilt and if observed the player moves 
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - Open CV
   GoDot engine
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+  Media pipe
+- Chat Gpt
+  
 ### Implementation
 For Software:
 # Installation
-[commands]
+uv sync
+Download godot and import this project
+
 
 # Run
-[commands]
+uv main.py
+
 
 ### Project Documentation
-For Software:
+For Software:Go dot engine
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -87,14 +88,14 @@ https://drive.google.com/file/d/1bWtJyXtqZVdyDfVCUCOyimb0WuPP9CsM/view?usp=drive
 https://drive.google.com/file/d/1eiFHxszsR4ru_QTW25Zyz_u4K3ip5E7M/view?usp=drivesdk
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Abhinav krishna ks]: [Specific contributions]
+-[Akalya S]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 
