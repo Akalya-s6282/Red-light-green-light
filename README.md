@@ -48,13 +48,16 @@ uv main.py
 For Software:Go dot engine
 
 # Screenshots (Add at least 3)
-https://drive.google.com/file/d/1-_LWZJCercm_KH1anrCzfq-solXpgb89/view?usp=drivesdk
+![Green Light](https://drive.google.com/file/d/1TLoN8vc2C5WKBEj0UXldnZDrpzfam2jC/view?usp=drive_link)
+Scenario of game during Green light
 
-![Screenshot2]
-https://drive.google.com/file/d/18T7DR15UflxmqRGcBp1vQk1gXsCkJU8R/view?usp=drivesdk
+![Elimination](https://drive.google.com/file/d/19wxEosOeDdvuIZ9pJdPj5WCuh-SbXUeZ/view?usp=drive_link)
+When you show movement during redlight you get eliminated
 
-![Screenshot3]
-https://drive.google.com/file/d/1zBBLcjed3JJf2atHv8dl04Rey5ISW1ci/view?usp=drivesdk
+![Win](https://drive.google.com/file/d/13l27fmVoMwd2AcfZYSVwXpWTUnVH56I3/view?usp=drive_link)
+This is when you reach the final position
+
+
 
 # Diagrams
 https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=drivesdk&ouid=109203431461386849036&rtpof=true&sd=true
