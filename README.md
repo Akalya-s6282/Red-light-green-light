@@ -1,17 +1,16 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Red-light-green-light 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+ Team : zeros and ones
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Akalya:  [Aisat]
+- Abhinav: [Aisat]
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -25,7 +24,8 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Open CV
+  GoDot engine
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
