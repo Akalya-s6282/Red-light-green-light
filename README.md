@@ -57,8 +57,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+https://docs.google.com/document/d/1WFIu9rAKIwXvVHUe0HfSsRIzlzRl5QWl/edit?usp=drivesdk&ouid=109203431461386849036&rtpof=true&sd=true
 
 For Hardware:
 
